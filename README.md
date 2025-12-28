@@ -3,7 +3,7 @@
 A simple To-Do List app refactored from procedural JS to **OOP (ES6 classes)**. Includes a theme toggler (light/dark) and saves tasks in LocalStorage.
 
 ## 🌐 Live Demo
-[Try it here](https://newton2n.github.io/Todo-List/)
+[Try it here](https://newton2n.github.io/todo-list/)
 
 ## Features
 - Add, delete, and check tasks
